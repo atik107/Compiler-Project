@@ -1,0 +1,521 @@
+
+Header file found :
+import math
+
+Header file found :
+import trycatch
+
+Main Function Start
+
+Single line comment found :: # varibale declaration
+Interger declaration
+a
+b
+c
+
+Declaration Done
+
+..............................................
+Float declaration
+x
+z
+
+Declaration Done
+
+..............................................
+Character declaration
+p
+
+Declaration Done
+
+..............................................
+Character declaration
+q
+r
+
+Declaration Done
+
+..............................................
+
+Single line comment found :: # if, if else statement
+a
+
+Number :  15
+
+Value of the variable: 15
+
+.........................................
+b
+
+Number :  7
+
+Value of the variable: 7
+
+.........................................
+c
+
+Number :  100
+
+Value of the variable: 100
+
+.........................................
+a
+b
+
+Greater than :15 > 7 
+ 
+Number :  5
+
+Number :  16
+
+Addition :5+16 = 21 
+Case No : 1 & expression value :21 
+
+Number :  115
+
+Number :  5
+
+Subtraction :115-5=110 
+ Case No : 2 & expression value :110 
+
+Number :  6
+
+Number :  7
+
+Multiplication :6*7 = 42 
+ Case No : 3 & expression value :42 
+
+Number :  33
+
+Number :  3
+
+Division :33/3 = 11 
+ Case No : 4 & expression value :11 
+
+Number :  5
+
+Number :  3
+
+Multiplication :5*3 = 15 
+ 
+Default case & expression value : 15
+SWITCH CASE Declaration
+
+Finally Choose Case number :-> 3
+
+.........................................
+
+String: "a is less than b"
+
+Print Expression 7738544
+
+.........................................
+value of expression in IF: 1
+
+.........................................
+
+Single line comment found :: #ELSE_ELSEIf_ELSE_Ladder 
+a
+b
+
+Less Than :15 < 7 
+
+String: "a is less than b"
+
+Print Expression 7738576
+
+.........................................
+a
+c
+
+Greater than :15 > 100 
+ 
+String: "a is equal to b"
+
+Print Expression 7738608
+
+.........................................
+
+String: "a is greater than b"
+
+Print Expression 7738640
+
+.........................................
+value of expression in ELSE: 7738608
+
+.........................................
+
+String: "Nested if else statement "
+
+Print Expression 7738672
+
+.........................................
+
+Single line comment found :: # nested if else 
+a
+b
+
+Greater than Equal To :15 >= 7 
+ a
+c
+
+Less Than :15 < 100 
+
+String: "c is greater than c"
+
+Print Expression 7738720
+
+.........................................
+
+String: "a is less than c"
+
+Print Expression 7738752
+
+.........................................
+value of expression in IF: 2
+
+.........................................
+
+String: "a is less than b"
+
+Print Expression 7738784
+
+.........................................
+value of expression in IF: 1
+
+.........................................
+
+Single line comment found :: # loop blocks for loop,while loop
+
+String: "For Loop"
+
+Print Expression 7738816
+
+.........................................
+FOR Loop execution
+value of the  i: 9 expression value : 3
+
+value of the  i: 12 expression value : 3
+
+value of the  i: 15 expression value : 3
+
+value of the  i: 18 expression value : 3
+
+.........................................
+
+String: "Inside For Loop from 1 to 5"
+
+Print Expression 7738848
+
+.........................................
+FOR Another Loop execution
+value of the  i: 1 expression value : 5
+
+.........................................
+
+value of the  i: 2 expression value : 5
+
+.........................................
+
+value of the  i: 3 expression value : 5
+
+.........................................
+
+value of the  i: 4 expression value : 5
+
+.........................................
+
+value of the  i: 5 expression value : 5
+
+.........................................
+
+Single line comment found :: #While Block 
+
+String: "While Loop 1"
+
+Print Expression 7738896
+
+.........................................
+WHILE Loop execution
+value of the loop: 1 expression value: 5
+
+value of the loop: 2 expression value: 5
+
+value of the loop: 3 expression value: 5
+
+value of the loop: 4 expression value: 5
+
+.........................................
+
+String: "While Loop 2"
+
+Print Expression 7738928
+
+.........................................
+WHILE Loop2 execution
+value of the loop: 10 expression value: 6
+
+value of the loop: 9 expression value: 6
+
+value of the loop: 8 expression value: 6
+
+value of the loop: 7 expression value: 6
+
+.........................................
+
+Single line comment found :: # switch case statement  
+
+Number :  5
+
+Number :  16
+
+Addition :5+16 = 21 
+Case No : 1 & expression value :21 
+
+Number :  115
+
+Number :  5
+
+Subtraction :115-5=110 
+ Case No : 2 & expression value :110 
+
+Number :  6
+
+Number :  7
+
+Multiplication :6*7 = 42 
+ Case No : 3 & expression value :42 
+
+Number :  33
+
+Number :  3
+
+Division :33/3 = 11 
+ Case No : 4 & expression value :11 
+
+Number :  5
+
+Number :  3
+
+Multiplication :5*3 = 15 
+ 
+Default case & expression value : 15
+SWITCH CASE Declaration
+
+Finally Choose Case number :-> 3
+
+.........................................
+
+Single line comment found :: # print functions
+
+Number :  5
+
+Number :  3
+
+Multiplication :5*3 = 15 
+ 
+Print Expression 15
+
+.........................................
+
+Single line comment found :: #Array    
+Interger declaration
+I
+Array Declaration
+Size of the Array is : 8
+4 5 23 3 8 9 13 0 
+.........................................
+
+Multiple line comment found :: 
+## Variable assignment and 
+		display it using 
+        print function (Multi line comment)##
+a
+
+Number :  80
+
+Value of the variable: 80
+
+.........................................
+b
+
+Number :  20
+
+Value of the variable: 20
+
+.........................................
+c
+
+Number :  0
+
+Value of the variable: 0
+
+.........................................
+c
+a
+b
+
+Addition :80+20 = 100 
+
+Value of the variable: 100
+
+.........................................
+c
+
+Print Expression 100
+
+.........................................
+c
+a
+b
+
+Subtraction :80-20=60 
+ 
+Value of the variable: 60
+
+.........................................
+c
+
+Print Expression 60
+
+.........................................
+c
+a
+b
+
+Multiplication :80*20 = 1600 
+ 
+Value of the variable: 1600
+
+.........................................
+c
+
+Print Expression 1600
+
+.........................................
+c
+a
+b
+
+Division :80/20 = 4 
+ 
+Value of the variable: 4
+
+.........................................
+c
+
+Print Expression 4
+
+.........................................
+
+Single line comment found :: # print factorial of any number
+
+FACTORIAL declaration
+FACTORIAL of 5 is : 120
+
+.........................................
+
+Single line comment found :: # odd even display
+Odd Even Number detection 
+Number : 10 is --- Even
+
+.........................................
+Odd Even Number detection 
+Number is :11 is --- Odd
+
+.........................................
+
+Single line comment found :: # prime calculator
+Prime Number Detection -> 
+3 is prime.
+
+.........................................
+Prime Number Detection -> 
+10 is Composite, not prime.
+
+.........................................
+Prime Number Detection -> 
+1 is neither prime nor composite.
+
+.........................................
+
+Multiple line comment found :: 
+## Increment operator
+    Decrement operator ##
+Increment -> 6
+Decrement -> 6
+
+Multiple line comment found :: 
+## user defined function 
+    function call  ##
+F
+
+String: "Function is called"
+
+Print Expression 7738960
+
+.........................................
+FUNCTION found : : 
+fuction declared successfully
+F
+function called successfully
+function value is 58
+
+.........................................
+F
+Interger declaration
+a
+Character declaration
+c
+Interger declaration
+
+String: "Parameterized Function"
+
+Print Expression 7738992
+
+.........................................
+FUNCTION found : : 
+fuction declared successfully
+
+Multiple line comment found :: 
+## try 
+          catch block starts from here: ##
+
+String: "Try block"
+
+Print Expression 7739040
+
+.........................................
+
+Number :  100
+
+String: "catch block"
+
+Print Expression 7739072
+
+.........................................
+TRY CATCH block found
+TRY Block operation : 7738992
+CATCH Value : 100
+Catch Block operation :100
+
+.........................................
+Main Function is Finished !!!
+
+
+**********************************
+All the input parsing is completed !
+
+Variable declaration Count :4 
+Expression Count : 0
+If_else Count : 4
+For loop Count :  6
+While loop Count : 2
+Switch Case Count : 2
+Print function Count : 21
+Function Count : 8
+Array Count : 1
+Try Catch Count : 1 
+Variable Assignment Count : 10 
+
+**********************************

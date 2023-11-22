@@ -1,0 +1,197 @@
+import math
+import trycatch
+
+Main 
+{
+        
+	# varibale declaration
+    INT a,b,c;
+    FLOAT x,z;
+    CHAR p;
+	CHAR q,r;
+ 
+                      
+    # if, if else statement
+    
+	a=15;
+	b=7;
+	c=100;
+
+
+	if ( a > b )
+	{
+		switch ( 3 )
+		{	
+			result 1: 5 + 16;
+
+			result 2: 115 - 5;
+
+			result 3: 6 * 7;
+        
+			result 4: 33 / 3; 
+
+			DEFAULT : 5 * 3;
+	
+		}
+	}
+
+	else
+	{
+		Display ( "a is less than b" );
+	}
+       
+        #ELSE_ELSEIf_ELSE_Ladder 
+	
+
+	if ( a < b )  
+    {
+	        Display ( "a is less than b" );
+	}
+	elseif ( a > c)
+    {
+	        Display ( "a is equal to b" );
+	}
+	else
+    {
+		Display ( "a is greater than b" );
+	}
+	
+	Display ( "Nested if else statement " );
+
+	# nested if else 
+
+	if ( a >= b )
+	{
+		if ( a < c )
+		{
+			Display ( "c is greater than c" );
+		}
+		else
+		{
+			Display ( "a is less than c" );
+		}
+
+	}
+	else
+	{
+            Display ( "a is less than b" );
+	}
+        
+       
+
+	# loop blocks for loop,while loop
+	for_ ( 9,20,3 )
+	{
+	      Display ( "For Loop" );
+	} 
+        for_ ( 1,5 )
+		{
+	      Display ( "Inside For Loop from 1 to 5" );
+		}
+
+        #While Block 
+
+	while ( 1 < 5 )
+	{
+             Display ( "While Loop 1" );
+	}
+        while ( 10 > 6 )
+        {
+             Display ( "While Loop 2" );
+        } 
+
+
+	# switch case statement  
+	
+	switch ( 3 )
+	{
+	result 1: 5 + 16;
+
+	result 2: 115 - 5;
+
+	result 3: 6 * 7;
+        
+	result 4: 33 / 3; 
+
+	DEFAULT : 5 * 3;
+	
+	}
+
+    
+	# print functions
+
+	Display (5*3);
+        
+        #Array    
+        array INT  I ( 8 ) ;
+
+        ## Variable assignment and 
+		display it using 
+        print function (Multi line comment)## 
+
+    a = 80;
+	b = 20;
+	c = 0;
+        
+    c = a + b;
+	Display ( c );
+	
+	c = a - b;
+	Display (c);
+
+	c = a * b;
+	Display ( c );
+
+	c = a / b;
+	Display ( c );
+
+        
+	# print factorial of any number
+	factorial_ ( 5 );
+
+	# odd even display
+ 	oddeven_ ( 10 );
+    oddeven_ ( 11 );
+        
+    # prime calculator
+    prime ( 3 );
+    prime ( 10 );
+    prime ( 1 );
+        
+    ## Increment operator
+    Decrement operator ##
+     
+    increment 5;
+    decrement 7;
+ 
+        
+        
+    ## user defined function 
+    function call  ##
+    
+	Def F :
+    {
+        Display ( "Function is called" );
+    }
+    F : ;
+
+	Def F ( INT a , CHAR c  ) return INT :
+    {
+        Display ( "Parameterized Function" );
+    }   
+     
+
+	## try 
+          catch block starts from here: ##
+	TRY 
+	{
+	  Display ( "Try block" );
+	}
+	CATCH ( 100 )
+	{
+		Display ( "catch block" );
+	}
+      
+
+      
+}
